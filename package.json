@@ -1,0 +1,21 @@
+{
+    "name": "vsc-nr1-debugger-extpack",
+    "displayName": "vsc-nr1-debugger-extpack",
+    "description": "Visual Studio Code NR1 Debugger extension pack",
+    "publisher": "TanBen",
+    "repository":"https://github.com/tanben/vsc-nr1-debugger-extension",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "BenedictoTan.step-line-generator",
+        "firefox-devtools.vscode-firefox-debug",
+        "msjsdiag.debugger-for-chrome",
+        "new-relic.nr1",
+        "TanBen.vsc-nr1-debugger-extension"
+    ]
+}
