@@ -5,5 +5,7 @@
 
 New Relic One Debugger extension pack
 This extension pack includes Chrome and Firefox debugger with launch configuration for debugging NR1 application(Nerdpack).
+![](./assets/extensions.jpg)
 
+![](./assets/mov.gif)
 See [VSC-NR1-Debugger-Extension](https://github.com/tanben/vsc-nr1-debugger-extension).
