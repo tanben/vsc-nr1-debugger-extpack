@@ -3,7 +3,7 @@
     "displayName": "vsc-nr1-debugger-extpack",
     "description": "Visual Studio Code NR1 Debugger extension pack",
     "publisher": "TanBen",
-    "repository":"https://github.com/tanben/vsc-nr1-debugger-extension",
+    "repository":"https://github.com/tanben/vsc-nr1-debugger-extpack",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
